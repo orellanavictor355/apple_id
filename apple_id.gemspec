@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name          = 'apple_id'
+  spec.name          = 'apple_id-forestv8_compatibility'
   spec.version       = File.read('VERSION')
   spec.authors       = ['nov']
   spec.email         = ['nov@matake.jp']
