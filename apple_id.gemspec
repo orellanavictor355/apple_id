@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency 'json-jwt', '~> 1.15.2'
   spec.add_runtime_dependency 'rack-oauth2', '~> 1.21.2'
-  spec.add_runtime_dependency 'openid_connect', '~> 1.3.0'
+  spec.add_runtime_dependency 'openid_connect', '= 1.4.2'
   spec.add_development_dependency 'bundler'
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rspec'
